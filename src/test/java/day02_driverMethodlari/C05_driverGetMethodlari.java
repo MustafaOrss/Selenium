@@ -1,6 +1,5 @@
 package day02_driverMethodlari;
 
-import org.openqa.selenium.DeviceRotation;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
